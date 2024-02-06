@@ -1,3 +1,6 @@
+you skip all goerli test net tutorial;;
+
+
 video tutorial
 https://github.com/NazaWEb/ultimate-solidity-smart-contract-course
 
